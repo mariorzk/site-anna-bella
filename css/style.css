@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #d2d2c1 url('../img/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+li {
+    display: inline;
+    color: #4b566a;
+    padding-right: 10px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+
+}
+strong{
+    color: #828271;
+    font-size: 20px;
+}
+.container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu {
+text-align: center;
+padding: 0;
+}
+
+.menus {
+    padding: 15px 15px;
+    background-color: #c5c5b2;
+    margin: auto;
+}
+.conteudo {
+    text-align: justify;
+    padding: 30px;
+    background-color: #e8e8d9;
+}
+.rodape {
+    text-align: center;
+    padding: 15px;
+    font-weight: 700;
+}
+.foto-publi{
+border: solid 10px #c3c3ae;
+margin: auto;
+display: block;
+}
